@@ -6,7 +6,7 @@
 #include <poll.h>
 #include <pthread.h>
 
-#define PORT 9034
+#define PORT "9034"
 #define TRUE 1
 #define FALSE 0
 #define BUFFER 256
